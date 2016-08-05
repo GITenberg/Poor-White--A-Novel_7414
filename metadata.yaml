@@ -1,0 +1,35 @@
+_repo: Poor-White--A-Novel_7414
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderson, Sherwood
+    alias: Fever, Buck
+    birthdate: 1876
+    deathdate: 1941
+    gutenberg_agent_id: '231'
+    url: http://www.gutenberg.org/2009/agents/231
+    wikipedia: http://en.wikipedia.org/wiki/Sherwood_Anderson
+description: '"In a small town in Ohio, a dreamy, rather stupid ''poor white'' boy
+  suddenly becomes a rich and famous inventor. This classic novel of Americana, first
+  published in 1920, tells the story of the power unleashed by that happenstance--
+  a force that overnight dotted a vast valley with cities, built a network of industry,
+  made quick men rich and fearful men poor. In telling of the ''poor white''s'' love,
+  it shows how the forces that twist men made the boy''s story a wild and terrible
+  one, bigger than the mere story of one person."--Page 4 of cover.'
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7414'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inventors -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Middle West -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Industrial revolution -- Fiction'
+- GITenberg
+title: 'Poor White: A Novel'
+url: http://www.gutenberg.org/ebooks/7414
